@@ -1,3 +1,5 @@
+import old.MyQueue;
+
 public class Main {
     public static void main(String[] args) {
         MyQueue queue = new MyQueue();

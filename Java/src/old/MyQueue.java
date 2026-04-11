@@ -1,3 +1,5 @@
+package old;
+
 public class MyQueue {
     private final int[] queue;
     private int front;

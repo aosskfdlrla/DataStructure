@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package old;
 
 public class MyArray {
     private int[] array = {};

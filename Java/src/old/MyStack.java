@@ -1,3 +1,5 @@
+package old;
+
 public class MyStack {
     private int[] stack;
     private int top;
